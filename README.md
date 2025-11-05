@@ -26,3 +26,6 @@ syntax_and_logic_errors/
 3. Run the program using `python main.py`.
 
 Have fun debugging!
+
+## Verification
+This line was added to verify PR creation capability.
